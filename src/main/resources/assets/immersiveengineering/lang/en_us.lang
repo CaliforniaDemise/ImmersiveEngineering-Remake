@@ -1,0 +1,9 @@
+# Item Groups
+itemGroup.immersiveengineering=Immersive Engineering
+
+# Items
+item.immersiveengineering.steel_pickaxe.name=Steel Pickaxe
+item.immersiveengineering.steel_axe.name=Steel Axe
+item.immersiveengineering.steel_shovel.name=Steel Shovel
+item.immersiveengineering.steel_hoe.name=Steel Hoe
+item.immersiveengineering.steel_sword.name=Steel Sword

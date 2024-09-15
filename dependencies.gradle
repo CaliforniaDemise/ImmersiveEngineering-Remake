@@ -1,5 +1,8 @@
 repositories {
     maven {
+        url 'https://maven.cleanroommc.com'
+    }
+    maven {
         name 'CurseMaven'
         url 'https://cursemaven.com'
         content {
@@ -10,5 +13,5 @@ repositories {
 }
 
 dependencies {
-
+    implementation "com.cleanroommc:assetmover:2.5"
 }

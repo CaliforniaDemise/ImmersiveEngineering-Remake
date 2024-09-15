@@ -39,8 +39,8 @@ minecraft {
     // Include and use dependencies' Access Transformer files
     useDependencyAccessTransformers = true
     
-    // injectedTags.put('MOD_ID', project.mod_id)
-    // injectedTags.put('MOD_VERSION', project.version)
+    injectedTags.put('MOD_ID', project.mod_id)
+    injectedTags.put('MOD_VERSION', project.version)
 }
 
 tasks.injectTags.configure {
