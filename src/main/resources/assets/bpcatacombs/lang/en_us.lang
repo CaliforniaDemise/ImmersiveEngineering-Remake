@@ -1,0 +1,9 @@
+# Item Groups
+itemGroup.bpcatacombs=Immersive Engineering
+
+# Items
+item.bpcatacombs.steel_pickaxe.name=Steel Pickaxe
+item.bpcatacombs.steel_axe.name=Steel Axe
+item.bpcatacombs.steel_shovel.name=Steel Shovel
+item.bpcatacombs.steel_hoe.name=Steel Hoe
+item.bpcatacombs.steel_sword.name=Steel Sword

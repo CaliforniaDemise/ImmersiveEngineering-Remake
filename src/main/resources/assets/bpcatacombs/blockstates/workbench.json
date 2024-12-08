@@ -1,0 +1,35 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "transform": "forge:default-block",
+    "model": "immersiveengineering:wooden_device/workbench.obj",
+    "textures": {
+      "particle": "immersiveengineering:block/wooden_decoration/treated_wood"
+    },
+    "custom": { "flip-v": true }
+  },
+  "variants": {
+    "facing": {
+      "north": { "y": 180 },
+      "south": {},
+      "east": { "y": 270 },
+      "west": { "y": 90 }
+    },
+    "slave": {
+      "0": {},
+      "1": { "model": "cube_all" }
+    },
+    "inventory": [{
+      "transform": {
+        "scale": 0.5,
+        "rotation": [{"x": 37.5}, {"y": 45}],
+        "translation": [-0.1875, -0.1875, 0],
+        "thirdperson": {
+          "scale": 0.6,
+          "translation": [0, 0.2, 0],
+          "rotation":{"x": 62.5 }
+        }
+      }
+    }]
+  }
+}
